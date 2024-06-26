@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NIO7I9nfUFEWCcK9zWcXO3X7o72j9f2qDX6qqySSefo=",
+  "Source": "testPayments",
+  "BasePath": "_content/testPayments",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
